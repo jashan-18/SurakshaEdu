@@ -1,6 +1,4 @@
 # SurakshaEdu
-Disaster awareness and safety education Android application
-# SurakshaEdu
 
 SurakshaEdu is an Android application designed to educate students and institutions about disaster management, safety protocols, and emergency preparedness.
 
@@ -14,6 +12,8 @@ SurakshaEdu is an Android application designed to educate students and instituti
 - Kotlin
 - XML
 - Android Studio
+- FireBase
+
 
 ## Developed By
-Jashan Preet
+Jashan Preet Singh
