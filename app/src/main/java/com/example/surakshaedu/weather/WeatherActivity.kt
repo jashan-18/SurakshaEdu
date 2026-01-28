@@ -12,7 +12,7 @@ class WeatherActivity : AppCompatActivity() {
     private lateinit var binding: ActivityWeatherBinding
 
     // 🔑 Replace with your OpenWeather API key
-    private val apiKey = "79eb5e1a5f8adf2b6f8c183410786f7b"
+    private val apiKey = "Your API Key"
     private val city = "Jalandhar"
 
     override fun onCreate(savedInstanceState: Bundle?) {

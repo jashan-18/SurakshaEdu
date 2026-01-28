@@ -8,7 +8,7 @@ import java.io.IOException
 
 object GroqApiClient {
 
-    private const val API_KEY = "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"
+    private const val API_KEY = "Your API Key"
     private const val URL = "https://api.groq.com/openai/v1/chat/completions"
 
     private val client = OkHttpClient()
